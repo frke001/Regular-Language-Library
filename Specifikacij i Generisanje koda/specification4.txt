@@ -1,0 +1,4 @@
+REGULAR EXPRESSION;
+a,b;
+a*|a*.b*;
+abb,ab,aba,abbbbbbbbb,aaaaaaaaaaa,aaaaaaaaabbbbbbb;
